@@ -46,8 +46,7 @@
 
 <p align="center"><img alt="YDP302B002-V6" src="./images/YDP302B002-V6.png" width="320" /></p>
 
-**说明：** 模组。
-
+**说明：** 带触摸（AXS15231B）。
 ---
 
 ## 如何切换分支
